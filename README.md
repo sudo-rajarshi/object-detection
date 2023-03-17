@@ -1,7 +1,7 @@
 # Object Detection
 
 ## Create Dataset
-![yolo.png](img\dataset.png)
+![yolo.png](img/dataset.png)
 * Create a dataset (i.e. a folder) inside `data`.
 * Create `images` and `labels` folders inside `dataset`.
 * Create `train` and `val` folders inside both `images` and `labels`
